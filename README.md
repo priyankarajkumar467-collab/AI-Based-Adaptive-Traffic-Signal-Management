@@ -71,5 +71,5 @@ Future development may include real-time traffic prediction, additional sensor i
 ## Project Video
 
 The project video demonstrates the traffic problem observed at Oppanakara Street, the proposed AI-based adaptive traffic signal management solution, and the SmartFlow prototype.
-
+[Watch Project Video](./Untitled%20design%20%281%29%20%281%29%20%281%29.mp4)
 
