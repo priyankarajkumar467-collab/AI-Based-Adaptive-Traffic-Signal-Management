@@ -68,3 +68,8 @@ Future development may include real-time traffic prediction, additional sensor i
 **AI-Based Adaptive Traffic Signal Management**
 
 **Location:** Oppanakara Street, Coimbatore
+## Project Video
+
+The project video demonstrates the traffic problem observed at Oppanakara Street, the proposed AI-based adaptive traffic signal management solution, and the SmartFlow prototype.
+
+
